@@ -1,4 +1,6 @@
 # fancy-spotify-gui
+<img src="image.png" style="border-radius: 20px;">
+
 A little experiment to grab data over `playerctl` and display it in a GUI for showing song information
 
 ## Installation
@@ -7,6 +9,7 @@ A little experiment to grab data over `playerctl` and display it in a GUI for sh
 - Install the required packages with `pip install -r requirements.txt`
 
 ## Usage
+Make sure the Spotify client is running and a song is playing
 - Run the server using `python main.py`
 - Go to `127.0.0.1:8000` in your browser to see the website.
 
