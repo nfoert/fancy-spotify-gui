@@ -1,5 +1,5 @@
 # fancy-spotify-gui
-<img src="image.png" style="border-radius: 20px;">
+<img src="image.png">
 
 A little experiment to grab data over `playerctl` and display it in a GUI for showing song information
 
@@ -14,7 +14,7 @@ Make sure the Spotify client is running and a song is playing
 - Go to `127.0.0.1:8000` in your browser to see the website.
 
 ## Todo
-- Animate text change
-- Smart recheck song data when the song's about to end, instead of every second
-- Add playback buttons
-- Animate cover art if paused
+- [ ] Animate text change
+- [ ] Smart recheck song data when the song's about to end, instead of every second
+- [ ] Add playback buttons
+- [ ] Animate cover art if paused
